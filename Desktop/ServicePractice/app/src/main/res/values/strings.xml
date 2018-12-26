@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ServicePractice</string>
+    <string name="startService">startService</string>
+    <string name="startSecondActivity">startSecondActivity</string>
+    <string name="stopService">stopService</string>
+    <string name="stoppedService">Service Stopped</string>
+
+
+
+
+
+</resources>
